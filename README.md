@@ -27,7 +27,7 @@ Ensure VITE_API_URL matches the backend API URL (e.g., http://localhost:5000/api
 Run the Application:
 npm run dev
 
-The app will be available at http://localhost:5173 (or the port specified by Vite).
+The app will be available at http://localhost:3000 (or the port specified by Vite).
 
 
 Troubleshooting
